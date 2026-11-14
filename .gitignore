@@ -1,0 +1,15 @@
+# device dumps: persist/modemst/fsg hold IMEI + calibration; live DT holds the serial
+backup/
+dtb/
+recovery/
+# third-party/Apple sources fetched for reading
+research/
+userland/a5xelte-air-translation/ios/a5shader_embedded_publications.inc
+*.ipsw
+shim/out/
+xnu/out/
+xnu/out-*/
+__pycache__/
+shim/a5xelte/out/
+shim/a5xelte/out4k/
+shim/a5xelte/outxnu/
